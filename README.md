@@ -1,25 +1,29 @@
-<br/>
 <p align="center">
-  <a href="https://tatzy.xyz/">
+  <a href="https://github.com/Tatzy4">
     <img src="https://cdn.discordapp.com/attachments/1110258373779263678/1113824697952514148/kutas.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Evrima Discord Commands</h3>
+  <h1 align="center">Evrima Discord Commands</h1>
 
   <p align="center">
-    <strong>Enchance your server!</strong>
-    <br/>
-    <h3 align="center">1.0.1 Version</h3>
-    <br/>
-    <br/>
+    <strong>Enhance your server with powerful Discord commands!</strong>
+  </p>
 
+  <p align="center">
+    <a href="https://github.com/Tatzy4/evrima-discord-bot-command"><img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?style=for-the-badge"></a>
+    <a href="https://github.com/Tatzy4/evrima-discord-bot-command"><img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge"></a>
   </p>
 </p>
 
+## About
+Welcome to Evrima Discord Commands! This is a powerful tool for your staff or for special people with custom ranks on your Discord server. It provides an "announce" command that sends announcements to your Evrima server.
 
+## Installation
+To get started with Evrima Discord Commands, you'll need to install the following Python packages. Also, make sure to set up your own IP, PORT, PASSWORD, and TOKEN.
 
-## Environment
-```css
+## License
+Feel free to use and edit this project. You can modify various texts and definitions.
+
+```bash
 pip install discord.py
 pip install discord-ext-commands
-```
