@@ -18,14 +18,6 @@
 
 
 
-## Preview 
-
-<img src="https://cdn.discordapp.com/attachments/1108868709184966796/1114981398315540580/image.png" alt="Logo">
-
-
-<img src="https://cdn.discordapp.com/attachments/1108868709184966796/1114981453067989012/image.png" alt="Logo">
-
-
 ## Environment
 ```css
 pip install discord.py
